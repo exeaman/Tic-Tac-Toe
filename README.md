@@ -1,16 +1,22 @@
-# tic_tac_toe
+# Tic Tac Toe
 
-A new Flutter project.
+A simple Tic Tac Toe game built with Flutter.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Two-player mode (Player X and Player O).
+- Tracks the score for both players.
+- Detects win and draw conditions.
+- Clear score and reset the game board.
 
-A few resources to get you started if this is your first Flutter project:
+## Usage
+- Tap on the grid to place your mark (X or O).
+- The game will automatically check for a winner or a draw.
+- Click the "Clear Score Board" button to reset the scores.
+- The game will reset automatically after a win or draw.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Contributing
+Feel free to fork this repository and submit pull requests. Any contributions, whether they be bug fixes, enhancements, or new features, are highly appreciated.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Thanks to the Flutter team for their amazing framework.
+Inspiration from various tic-tac-toe implementations on GitHub.
